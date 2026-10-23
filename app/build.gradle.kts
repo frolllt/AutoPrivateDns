@@ -3,6 +3,10 @@ plugins {
     id("org.jetbrains.kotlin.android")
 }
 
+base {
+    archivesName.set("autoprivatedns")
+}
+
 android {
     namespace = "com.autoprivatedns"
     compileSdk = 34
