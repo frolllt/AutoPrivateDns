@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Private DNS</string>
+    <string name="accessibility_service_label">Auto Private DNS App Detector</string>
+    <string name="accessibility_service_description">Detects when your selected apps are opened or closed so Private DNS can be automatically turned on and off. Does not read screen content.</string>
+</resources>
